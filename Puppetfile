@@ -1,7 +1,7 @@
 forge "http://forge.puppetlabs.com"
 
 # Modules from the Puppet Forge
-mod "puppetlabs/staging"
+mod "nanliu/staging"
 
 # Modules from Github using various references
 mod 'notifyme',
